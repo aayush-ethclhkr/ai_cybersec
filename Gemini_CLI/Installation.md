@@ -63,5 +63,6 @@ node -v
 NODE SHOULD BE v18+ (prefer v20)
 
 
+RESULT 
 
 ![image](https://github.com/aayush-ethclhkr/ai_cybersec/blob/main/Gemini_CLI/gemini_ss.png)
