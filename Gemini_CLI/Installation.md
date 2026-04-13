@@ -64,4 +64,4 @@ NODE SHOULD BE v18+ (prefer v20)
 
 
 
-![image](https://github.com/aayush-ethclhkr/AIxCYBERSEC/Gemini_CLI)
+![image](https://github.com/aayush-ethclhkr/ai_cybersec/Gemini_CLI/gemini_ss.png)
